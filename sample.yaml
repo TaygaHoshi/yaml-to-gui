@@ -1,0 +1,16 @@
+Student:
+    Name: string
+    Surname: string
+    Email: string
+    Number: string
+    Department:
+        - Engineering
+        - Business
+        - Arts
+        - Architecture
+        - Natural Sciences
+        - Medicine
+        - Human Sciences
+University:
+    Name: string
+    City: string
