@@ -38,6 +38,6 @@ Gets converted to:
 ```
 
 ## Dependencies
-Qt6
-yaml-cpp
-cmake
+- Qt6
+- yaml-cpp
+- cmake
